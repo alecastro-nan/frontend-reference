@@ -72,13 +72,6 @@
       "labels": ["ESLint", "Next.js", "TypeScript"]
     },
     {
-      "name": "Node Package Managers",
-      "description": "Comparison of the most popular Node Package Managers: npm, yarn, pnpm.",
-      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/node-package-managers/",
-      "tags": ["Examples > DevOps > Node Package Managers"],
-      "labels": ["Node", "npm", "yarn", "pnpm"]
-    },
-    {
       "name": "React Boilerplate",
       "description": "A simple but powerful boilerplate to start a React project powered by Vite. Boilerplate generated using [create-awesome-node-app](https://www.npmjs.com/package/create-awesome-node-app) contains full CI/CD setup with GitHub Actions and Docker. It also contains a full local development setup with hot reload and production ready setup with minification and optimization. It also contains a full test setup with Jest and React Testing Library.",
       "url": "https://github.com/nanlabs/react-boilerplate",
@@ -103,6 +96,21 @@
         "Jest",
         "Nest.js",
         "Storybook"
+      ]
+    },
+    {
+      "name": "Supercharge Your Website with Core Web Vitals",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/seo-and-core-web-vitals",
+      "description": "Learn how to optimize your website's performance and improve SEO using Core Web Vitals. Discover the key metrics, tools, and techniques to deliver an exceptional user experience.",
+      "tags": ["Examples > Frontend > Website Optimization and Performance"],
+      "labels": [
+        "Core Web Vitals",
+        "SEO",
+        "Website Performance",
+        "User Experience",
+        "Google PageSpeed Insights",
+        "Lighthouse",
+        "Web Vitals Extension"
       ]
     },
     {
@@ -258,6 +266,99 @@
       "description": "This example shows how to use React Easy State to manage state.",
       "tags": ["Examples > Frontend > React State Management"],
       "labels": ["React", "React Easy State"]
+    },
+    {
+      "name": "Microfrontend with Shared React Router and React Components",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/microfrontend-react-app-react-components/",
+      "description": "This example has a microfrontend project that demonstrates the usage of a shared router in a React application",
+      "tags": ["Examples > Frontend > Microfrontend"],
+      "labels": [
+        "React",
+        "Vue",
+        "Module federation",
+        "Vite",
+        "Webpack",
+        "Shared router",
+        "Microfrontend"
+      ]
+    },
+    {
+      "name": "Microfrontend with Shared React Router and React Application",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/microfrontend-react-shell-react-app-shared-routing/",
+      "description": "project that demonstrates the usage of a shared router in a container application made with React and an independent application made with React and Vite",
+      "tags": ["Examples > Frontend > Microfrontend"],
+      "labels": [
+        "React",
+        "Vue",
+        "Module federation",
+        "Vite",
+        "Webpack",
+        "Shared router",
+        "Microfrontend"
+      ]
+    },
+    {
+      "name": "Microfrontend with Shared React Router and Vue Application",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/microfrontend-react-shell-react-vue-app/",
+      "description": "This example has a microfrontend project that demonstrates the usage of a shared router in a container application made with React and an independent application made with Vue and Vite",
+      "tags": ["Examples > Frontend > Microfrontend"],
+      "labels": [
+        "React",
+        "Vue",
+        "Module federation",
+        "Vite",
+        "Webpack",
+        "Shared router",
+        "Microfrontend"
+      ]
+    },
+    {
+      "name": "Comparative Analysis between styled-components and Tailwind CSS",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/styled-components-vs-tailwindcss/",
+      "description": "Article that presents a comparative analysis of styled-components and Tailwind CSS, focusing on practical implementations of a UI Challenge using both libraries.",
+      "tags": ["Examples > Frontend > Styling and CSS"],
+      "labels": [
+        "styled-components",
+        "Tailwind CSS",
+        "CSS",
+        "CSS-in-JS",
+        "Analysis"
+      ]
+    },
+    {
+      "name": "Proof of Concept: Million, The Virtual DOM Replacement for React.",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/million-poc-performance/",
+      "description": "This is a POC that shows how to use Million and comparative analysis of Performance between Million and React.",
+      "tags": ["Examples > Frontend > Virtual Dom"],
+      "labels": ["Performance", "React", "Virtual Dom", "Rendering", "Million"]
+    },
+    {
+      "name": "React Security Best Practices Guide",
+      "description": "This checklist provides React security best practices to assist you and your team in identifying and addressing security issues within your React applications. Additionally, it includes guidance on how to automate security testing for your React code and automatically remedy any security-related issues.",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/react-security-best-practices",
+      "tags": ["Examples > Frontend > Security Best Practices"],
+      "labels": [
+        "React",
+        "Security",
+        "Best Practices",
+        "Frontend",
+        "Automated Testing",
+        "Security Issues"
+      ]
+    },
+    {
+      "name": "NextJS with SWR",
+      "description": "This example shows how to use SWR with NextJS for data fetch and mutate.",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/nextjs-with-swr-example",
+      "tags": ["Examples > Frontend > React State Management", "Examples > Frontend > NextJs"],
+      "labels": ["NextJS", "SWR", "React", "TypeScript"]
+    },
+    {
+      "name": "SWR",
+      "url": "https://github.com/nanlabs/frontend-reference/tree/main/examples/state-management/examples/api-swr/",
+      "description": "This example shows how to use SWR to fetch data from an API.",
+      "tags": ["Examples > Frontend > React State Management"],
+      "labels": ["React", "SWR"]
     }
   ]
 }
